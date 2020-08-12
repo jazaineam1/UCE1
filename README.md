@@ -1,6 +1,6 @@
 # UCE1
 
-0.  Presaberes Distribución Normal.
+0.   [Distribución Normal](https://github.com/jazaineam1/UCE1/blob/master/Cuadernos/DistribucionNormal.ipynb)
 1.  Población, Muestra, parámetros y estadísticos.
 2.  Muestreo Aleatorio Simple y Muestreo Alestorio Estratificado.
 3.  Teorema del límite central.
