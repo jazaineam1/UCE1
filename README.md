@@ -5,4 +5,4 @@
 2.  [Muestreo Aleatorio Simple y Muestreo Aleatorio Estratificado.](https://github.com/jazaineam1/UCE1/blob/master/Cuadernos/Muestreo%20Aleatorio%20Simple.ipynb)
 3.  [Teorema del límite central.](https://github.com/jazaineam1/UCE1/blob/master/Cuadernos/Estadisticas%20y%20distribuciones%20muestrales.ipynb)
 4.  [Intervalos de confianza para la media y la proporción](https://github.com/jazaineam1/UCE1/blob/master/Cuadernos/Intervalos%20de%20confianza%20para%20la%20media%20y%20proporci%C3%B3n.ipynb)
-5. [Intervalos de confianza para la media con $\sigma$ desconocido$ e intervalos de confianza para la varianza](https://github.com/jazaineam1/UCE1/blob/master/Cuadernos/Intervalos%20de%20confianza%20II.ipynb)
+5. [Intervalos de confianza para la media con varianza desconocida e intervalos de confianza para la varianza](https://github.com/jazaineam1/UCE1/blob/master/Cuadernos/Intervalos%20de%20confianza%20II.ipynb)
