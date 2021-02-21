@@ -2,5 +2,5 @@
 
 <iframe
   src="https://antoninozainea.shinyapps.io/Anova/"
-  style="width:100%; height:300px;"
+  style="width:120%; height:500px;"
 ></iframe>
